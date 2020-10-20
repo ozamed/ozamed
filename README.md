@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <img src="img/avatar-logo.png" alt="Logo" width="328" height="360">
+    <img src="img/avatar-logo.png" alt="Logo" width="228" height="260">
 
 
   <h3 align="center">Amed Öz</h3>
