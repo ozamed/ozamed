@@ -16,7 +16,7 @@
 
 <p align="center">
   <code><img title="SCL" height="25" src="images/plcLogo.png"></code>
-  <code><img title="C#" height="25" src="images/csharpLogo.svg"></code>
+  <code><img title="C#" height="25" src="images/csharpLogo.png"></code>
   <code><img title=".NET Core" height="25" src="images/dotnetCoreLogo.png"></code>
   <code><img title="Python" height="25" src="images/pythonLogo.png"></code>
   <code><img title="Java" height="25" src="images/javaLogo.png"></code>  
