@@ -7,7 +7,6 @@ I'm Amed! I'm a developer passionate about learning and developing new technolog
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 <p align="center">
-  <code><img title="Industrial Automation" height="25" src="images/industryLogo.png"></code>
   <code><img title="C#" height="25" src="images/csharpLogo.png"></code>
   <code><img title=".NET Core" height="25" src="images/dotnetCoreLogo.png"></code>
   <code><img title="Python" height="25" src="images/pythonLogo.png"></code>
@@ -27,6 +26,7 @@ I'm Amed! I'm a developer passionate about learning and developing new technolog
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img width="50%" height=50% align="center" src="https://github-readme-stats.vercel.app/api?username=ozamed&show_icons=true&theme=gotham">
+    <img width="50%" height=50% align="left" src="https://github-readme-stats.vercel.app/api?username=ozamed&show_icons=true&theme=gotham">
+    <img width="50%" height=50% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozamed&show_icons=true&hide_border=true&theme=tokyonight" />
   </a>
 </p>
