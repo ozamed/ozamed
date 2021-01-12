@@ -26,7 +26,7 @@ I'm Amed! I'm a developer passionate about learning and developing new technolog
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img width="50%" height=50% align="left" src="https://github-readme-stats.vercel.app/api?username=ozamed&show_icons=true&theme=gotham">
-    <img width="50%" height=50% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozamed&show_icons=true&hide_border=true&theme=tokyonight" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ozamed&show_icons=true&theme=gotham">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozamed&show_icons=true&hide_border=true&theme=tokyonight" />
   </a>
 </p>
