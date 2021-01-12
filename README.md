@@ -1,4 +1,4 @@
-<h1>Hello there 👋</h1>
+<h1>Hello 👋</h1>
 
 I'm Amed! I'm a developer passionate about learning and developing new technologies. I usually work on Python, C# and SCL.
 - 💻 Currently working on Django
