@@ -1,21 +1,13 @@
-<h3 align="center">Hello there, I'm Amed 👋</h3>
-<br>
-<p align="center">
-  Hi, I'm Amed, Student & Developer from Turkey
-  <hr>
-  💻 I love writing <strong>code</strong> and learn anythings about it
-  <br>
-  🌱 I’m currently learning <strong>Xamarin</strong>
-  <br>
-  🧰 I’m currently working on <strong>Django</strong>
-</p>
+<h1>Hello there 👋</h1>
 
-<hr>
+I'm Amed! I'm a developer passionate about learning and developing new technologies. I usually work on Python, C # and SCL.
+- 💻 Currently working on Django
+- 🌱 Currently learning <strong>Xamarin</strong>
+<p>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
-
 <p align="center">
-  <code><img title="SCL" height="25" src="images/industryLogo.png"></code>
+  <code><img title="Industrial Automation" height="25" src="images/industryLogo.png"></code>
   <code><img title="C#" height="25" src="images/csharpLogo.png"></code>
   <code><img title=".NET Core" height="25" src="images/dotnetCoreLogo.png"></code>
   <code><img title="Python" height="25" src="images/pythonLogo.png"></code>
@@ -33,9 +25,7 @@
   <code><img title="Problem Solving" height="25" src="images/problemSolvingLogo.png"></code>
 </p>
 
-<hr>
-
-<p align=center>
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ozamed&show_icons=true&theme=gotham">
   </a>
@@ -43,4 +33,3 @@
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozamed&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact"/>
   </a>
 </p>
-<hr>
