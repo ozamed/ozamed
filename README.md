@@ -2,7 +2,7 @@
 
 I'm Amed! I'm a developer passionate about learning and developing new technologies. I usually work on Python, C# and SCL.
 - 💻 Currently working on Django
-- 🌱 Currently learning <strong>Xamarin</strong>
+- 🌱 Currently learning <strong>React</strong>
 <p>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
