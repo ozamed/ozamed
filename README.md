@@ -10,6 +10,8 @@ I'm Amed! I'm a developer passionate about learning and developing new technolog
   <code><img title="C#" height="25" src="images/csharpLogo.png"></code>
   <code><img title=".NET Core" height="25" src="images/dotnetCoreLogo.png"></code>
   <code><img title="Python" height="25" src="images/pythonLogo.png"></code>
+  <code><img title="React" height="25" src="images/reactLogo.png"></code>
+  <code><img title="Javascript" height="25" src="images/javascriptLogo.png"></code>
   <code><img title="Java" height="25" src="images/javaLogo.png"></code>  
   <code><img title="HTML5" height="25" src="images/html5Logo.png"></code>
   <code><img title="CSS3" height="25" src="images/css3Logo.png"></code>
