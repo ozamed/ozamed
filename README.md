@@ -1,7 +1,7 @@
 <h1>Hello 👋</h1>
 
 I'm Amed! I'm a developer passionate about learning and developing new technologies. I usually work on Python, C# and SCL.
-- 💻 Currently working on React Native
+- 💻 Currently working on React Native & Django
 <p>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
